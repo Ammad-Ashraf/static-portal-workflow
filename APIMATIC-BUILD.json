@@ -5,7 +5,7 @@
         "debug": {
             "publishReport": true
         },
-        "pageTitle": "My First Portal",
+        "pageTitle": "My First Portal - Ammad",
         "navTitle": "Developer Experience Portal",
         "logoUrl": "static/images/logo.png",
         "logoLink": "https://www.apimatic.io",
@@ -41,4 +41,5 @@
             "enableConsoleCalls": true
         }
     }
+
 }
